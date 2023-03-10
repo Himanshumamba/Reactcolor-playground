@@ -1,0 +1,27 @@
+section {
+  color: rgb(255, 255, 255);
+
+  z-index: -1;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 5rem;
+  height: 100vh;
+}
+input[type='text'] {
+  position: absolute;
+  margin: 0 auto;
+  top: 11rem;
+  left: 12px;
+  border: none;
+  border-bottom: 1px solid #000;
+  outline-color: transparent;
+  width: 19%;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+h1 {
+  background-color: rgb(105, 101, 101);
+  color: aliceblue;
+  padding: 1rem;
+}
